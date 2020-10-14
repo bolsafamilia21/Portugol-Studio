@@ -1,1 +1,0 @@
-https://github.com/UNIVALI-LITE/Portugol-Studio/releases
